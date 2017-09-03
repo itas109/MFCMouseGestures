@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Example/MFCMouseGestures/ipch
+/Example/MFCMouseGestures/MFCMouseGestures/Debug
+/Example/MFCMouseGestures/Debug
+/Example/MFCMouseGestures/MFCMouseGestures.sdf
